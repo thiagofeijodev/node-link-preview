@@ -1,6 +1,6 @@
 {
   "name": "@thiagofeijodev/node-link-preview",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Library to return title, description and highlighted image of a site to generate a link preview preview",
   "author": "Thiago Feijo <thiago@feijo.dev> (feijo.dev)",
   "license": "MIT",
