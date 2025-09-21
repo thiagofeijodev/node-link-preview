@@ -102,8 +102,8 @@ Wrap in Promises if you prefer async/await usage.
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/thiagofeijodev/node-link-preview.git
-cd node-link-preview
+git clone https://github.com/thiagofeijodev/node-link-previewer.git
+cd node-link-previewer
 ```
 2. Install dependencies:
 ```bash
@@ -128,7 +128,3 @@ npm test
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
-
-[![npm version](https://img.shields.io/npm/v/node-link-preview)](https://www.npmjs.com/package/node-link-preview)  
-[![License: MIT](https://img.shields.io/npm/l/node-link-preview)](LICENSE)  
-

@@ -1,7 +1,7 @@
 const nock = require('nock');
 const LinkPreview = require('../index');
 
-describe('node-link-preview', () => {
+describe('node-link-previewer', () => {
   const testUrl = 'https://example.com';
 
   afterEach(() => {

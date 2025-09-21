@@ -1,6 +1,6 @@
 {
-  "name": "@thiagofeijodev/node-link-preview",
-  "version": "0.0.3",
+  "name": "@thiagofeijodev/node-link-previewer",
+  "version": "0.0.4",
   "description": "Library to return title, description and highlighted image of a site to generate a link preview preview",
   "author": "Thiago Feijo <thiago@feijo.dev> (feijo.dev)",
   "license": "MIT",
@@ -25,7 +25,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/thiagofeijodev/node-link-preview.git"
+    "url": "git://github.com/thiagofeijodev/node-link-previewer.git"
   },
   "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
