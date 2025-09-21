@@ -34,13 +34,13 @@ A lightweight Node.js library to fetch link metadata — title, description, and
 ## Install
 
 ```bash
-npm install node-link-preview
+npm install @thiagofeijodev/node-link-preview
 ```
 
 or using Yarn:
 
 ```bash
-yarn add node-link-preview
+yarn add @thiagofeijodev/node-link-preview
 ```
 
 ---
@@ -48,7 +48,7 @@ yarn add node-link-preview
 ## Usage
 
 ```js
-const LinkPreview = require('node-link-preview');
+const LinkPreview = require('@thiagofeijodev/node-link-preview');
 
 LinkPreview.search('https://example.com', (data) => {
   console.log('Preview data:', data);
