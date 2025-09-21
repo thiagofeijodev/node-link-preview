@@ -26,5 +26,6 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/thiagofeijodev/node-link-preview.git"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
